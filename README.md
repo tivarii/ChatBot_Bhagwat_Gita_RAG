@@ -6,9 +6,9 @@ A modern RAG (Retrieval-Augmented Generation) application that combines ancient 
 
 ## 🎥 Demo
 
-[**🎬 Watch Live Demo**](https://www.loom.com/share/02f6fafe3efa4e8a98a93c3486647c7b?sid=0234f79c-5bee-4438-8fe0-c1603910eba9)
+[**🎬 Watch Live Demo**](https://www.loom.com/share/1e27a75ec5db4c4eb9a6f0a8990e25e3?sid=6b3c903b-0c59-4ee3-b984-b89c7d4a951c)
 
-
+![alt text](image.png)
 
 ## ✨ Features
 
